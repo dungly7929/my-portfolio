@@ -85,7 +85,7 @@ function Experience() {
                     Experience
                     </p>
                 <p className="py-6">
-                    These are the tecjnologies I've worked with
+                    These are the technologies I've worked with
                     </p>
             </div>
 
